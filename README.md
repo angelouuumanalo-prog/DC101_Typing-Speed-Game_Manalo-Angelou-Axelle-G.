@@ -32,3 +32,13 @@ How to Play
 8.Players can restart the game at any time or return to the main menu.
 
 9.The game progresses through multiple levels with increasing difficulty by introducing longer texts and shorter time limits.
+
+How to Run the Game
+
+Option 1: Play Online (GitHub Pages)
+
+You can play the game anytime using the live link below.
+
+Note: Loading may take a few seconds depending on your internet speed.
+
+ https://angelouuumanalo-prog.github.io/DC101_Typing-Speed-Game_Manalo-Angelou-Axelle-G/
