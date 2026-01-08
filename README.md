@@ -16,11 +16,9 @@ This project was created solely for educational purposes.
 
 How to Play
 
-Press the Start Typing button to begin the game.
-
-The game starts at Level 1, displaying a word or sentence in the typing area.
-
-A timer will begin counting down as soon as the text appears.
+1.Press the Start Typing button to begin the game.
+2.The game starts at Level 1, displaying a word or sentence in the typing area.
+3.A timer will begin counting down as soon as the text appears.
 
 Type the displayed text accurately into the input box.
 
