@@ -1,10 +1,8 @@
 Speed Typing Challenge
-
 Author: Angelouuu Manalo
 Course: DC 101 – Web Development
 Project Title: Speed Typing Challenge
 Mode: Individual Work
-
 Game Description
 
 Speed Typing Challenge is a browser-based interactive typing game designed to test and improve a player’s typing speed and accuracy. Players are challenged to type randomly generated words or sentences within a limited time, earning points based on correct keystrokes, speed, and accuracy. The game provides real-time feedback through visual indicators, timers, and score updates to keep players engaged and motivated.
