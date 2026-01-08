@@ -33,6 +33,8 @@ How to Play
 
 9.The game progresses through multiple levels with increasing difficulty by introducing longer texts and shorter time limits.
 
+________________________________________
+
 How to Run the Game
 
 Option 1: Play Online (GitHub Pages)
@@ -42,3 +44,17 @@ You can play the game anytime using the live link below.
 Note: Loading may take a few seconds depending on your internet speed.
 
  https://angelouuumanalo-prog.github.io/DC101_Typing-Speed-Game_Manalo-Angelou-Axelle-G/
+
+________________________________________
+ Option 2: Run Locally on Your Computer
+
+Download or clone the repository:
+
+git clone https://github.com/angelouuumanalo-prog/DC101_Typing-Speed-Game_Manalo-Angelou-Axelle-G
+
+
+Open the project folder
+
+Double-click index.html to open it in your browser
+
+Start playing 🎮
